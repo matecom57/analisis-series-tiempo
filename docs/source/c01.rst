@@ -1,6 +1,7 @@
 Using R for Time Series Analysis 
 ================================
 
+`aqui <https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html>`_
 Time Series Analysis
 --------------------
 
